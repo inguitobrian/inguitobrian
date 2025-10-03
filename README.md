@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Starry Night Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Where%20Art%20Meets%20Technology&descSize=20&descAlignY=60" width="100%"/>
+<div align="center">
+<!-- Starry Night Header -->
+<img src="./starry-night.png" width="100%" alt="Starry Night Header"/>
+<!-- Animated Typing Effect -->
 
 <!-- Animated Typing Effect -->
 
