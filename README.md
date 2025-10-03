@@ -1,11 +1,7 @@
 <div align="center">
-
-<!-- Starry Night Header with Animated Blue Overlay -->
-<div class="header-container">
-<img src="./starry-night.png" class="header-image" alt="Starry Night Header"/>
-<div class="blue-overlay"></div>
-</div>
-
+<!-- Starry Night Header -->
+<img src="./starry-night.png" width="100%" alt="Starry Night Header"/>
+<!-- Animated Typing Effect -->
 <!-- Animated Typing Effect -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+Brian+Inguito+%F0%9F%8E%A8%F0%9F%92%BB;BSIT+Student+%7C+Artist+%7C+Musician;Creating+Digital+%26+Traditional+Masterpieces;Composing+Code+%26+Melodies)](https://git.io/typing-svg)
