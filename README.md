@@ -200,14 +200,14 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianinguito&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&border_color=3b82f6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianinguito&layout=compact&langs_count=8&theme=cobalt&border_color=3b82f6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inguitobrian&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&border_color=3b82f6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inguitobrian&layout=compact&langs_count=8&theme=cobalt&border_color=3b82f6"/>
 
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=brianinguito&theme=cobalt&border=3b82f6)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=inguitobrian&theme=cobalt&border=3b82f6)](https://git.io/streak-stats)
 
 </div>
 
@@ -217,7 +217,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=brianinguito&theme=cobalt&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=inguitobrian&theme=cobalt&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -225,7 +225,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 ## 📈 Contribution Graph
 
-[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brianinguito&theme=react-dark&color=3b82f6&line=60a5fa&point=3b82f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=inguitobrian&theme=react-dark&color=3b82f6&line=60a5fa&point=3b82f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
