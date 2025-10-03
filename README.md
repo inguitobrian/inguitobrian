@@ -1,44 +1,6 @@
 <div align="center">
 
 <!-- Starry Night Header with Animated Blue Overlay -->
-<div align="center" style="position: relative; overflow: hidden;">
-<style>
-@keyframes blueWave {
-  0% { transform: translateX(-100%) rotate(45deg); }
-  50% { transform: translateX(100%) rotate(45deg); opacity: 0.3; }
-  100% { transform: translateX(200%) rotate(45deg); opacity: 0; }
-}
-@keyframes pulseGlow {
-  0%, 100% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.3); }
-  50% { box-shadow: 0 0 40px rgba(59, 130, 246, 0.6), 0 0 60px rgba(59, 130, 246, 0.4); }
-}
-.header-container {
-  position: relative;
-  display: inline-block;
-  width: 100%;
-  border-radius: 15px;
-  overflow: hidden;
-  animation: pulseGlow 3s ease-in-out infinite;
-}
-.blue-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(45deg, transparent 30%, rgba(59, 130, 246, 0.4) 50%, transparent 70%);
-  animation: blueWave 4s ease-in-out infinite;
-  pointer-events: none;
-  z-index: 2;
-}
-.header-image {
-  width: 100%;
-  height: auto;
-  display: block;
-  position: relative;
-  z-index: 1;
-}
-</style>
 <div class="header-container">
 <img src="./starry-night.png" class="header-image" alt="Starry Night Header"/>
 <div class="blue-overlay"></div>
