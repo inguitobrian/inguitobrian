@@ -106,12 +106,6 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 - Drums 🥁
 - Bass 🎸
 
-**Musical Journey**
-
-- Worship Leader
-- Composer
-- Multi-instrumentalist
-
 </td>
 </tr>
 </table>
@@ -294,7 +288,6 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 | 🌟  | Category              | Details                                   |
 | :-: | :-------------------- | :---------------------------------------- |
-| ☕  | **Fuel of Choice**    | Coffee & green tea while coding           |
 | 📖  | **Currently Reading** | Japanese light novels & manga             |
 | 🎨  | **Favorite Medium**   | Digital + Traditional mixed media         |
 | 🎵  | **Music Genre**       | Worship, Lo-fi, Jazz, Anime OST           |
