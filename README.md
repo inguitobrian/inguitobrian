@@ -65,7 +65,6 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 - Frontend & Backend
 - Database Design
-- API Development
 
 **MObile Development**
 
@@ -236,8 +235,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 │                                                         │
 │  🎓  Mastering Full-Stack Development                  │
 │  🎨  Enhancing Digital Art Portfolio                   │
-│  🎵  Serving as Church Musician                        │
-│  📚  Reading Japanese Literature                       │
+│  🎵  Serving as Church Musician                        │                     
 │  🖌️  Creating Portrait Masterpieces                    │
 │  💼  Building Professional Projects                    │
 │                                                         │
@@ -246,7 +244,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 ### 💡 Areas of Expertise
 
-**Web Development** • **Graphic Design** • **UI/UX Design** • **Digital Art** • **Traditional Art** • **Music Composition**
+**Web Development** • **Graphic Design** • **UI/UX Design** • **Digital Art** • **Traditional Art** 
 
 ### 🌱 Currently Learning
 
