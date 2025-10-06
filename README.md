@@ -64,7 +64,6 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 **Web Development**
 
 - Frontend & Backend
-- Database Design
 
 **MObile Development**
 
@@ -163,7 +162,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif" width="100px"/><br/>
 <b>📚 Reading</b><br/>
-<sub>Japanese Literature<br/>Manga & Light Novels</sub>
+<sub>Japanese Books<br/>Anime & Manga</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/TgL7pl8paLxCzmGBBn/giphy.gif" width="100px"/><br/>
