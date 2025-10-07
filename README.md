@@ -285,9 +285,9 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 | 🌟  | Category              | Details                                   |
 | :-: | :-------------------- | :---------------------------------------- |
-| 📖  | **Currently Reading** | Japanese light novels & manga             |
+| 📖  | **Currently Reading** | Japanese self-help books & manga          |
 | 🎨  | **Favorite Medium**   | Digital + Traditional mixed media         |
-| 🎵  | **Music Genre**       | Worship, Lo-fi, Jazz, Anime OST           |
+| 🎵  | **Music Genre**       | Worship, Lo-fi, Jazz,                     |
 | 🌙  | **Peak Productivity** | Late night creative sessions              |
 | 🎯  | **Life Motto**        | "Create, Code, Compose, Repeat"           |
 | 🖌️  | **Art Style**         | Realistic portraits with a touch of anime |
@@ -298,7 +298,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 <div align="center">
 
-### 🌟 "In the intersection of art, music, and technology, I found my calling" 🌟
+### 🌟 "Great things are done by a series of small things brought together." 🌟
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
@@ -308,7 +308,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=120&section=footer" width="100%"/>
 
-**✨ Crafted with 💙 by Brian Inguito ✨**
+**✨ by Brian Inguito ✨**
 
 _"Every pixel tells a story, every note carries emotion, every line of code solves a problem"_
 
