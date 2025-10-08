@@ -13,7 +13,7 @@
 
 ---
 
-### 🎭 _"Code is poetry, design is art, music is the soul"_
+### 🎭 _"Code is poetry, art is life, music is the soul"_
 
 </div>
 
@@ -83,6 +83,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 **Digital Art**
 
 - Digital Illustration
+- Landscape illustration
 - Graphic Design
 - UI/UX Design
 
