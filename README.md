@@ -168,7 +168,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/TgL7pl8paLxCzmGBBn/giphy.gif" width="100px"/><br/>
 <b>🎨 Drawing</b><br/>
-<sub>Portrait Art<br/>Digital Illustration</sub>
+<sub>Portrait Art<br/>Digital Illustration</sub><br/>Landscape Illustration</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/l0HlIyH6p5m8DbvC8/giphy.gif" width="100px"/><br/>
