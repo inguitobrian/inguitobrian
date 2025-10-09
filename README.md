@@ -74,6 +74,9 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 - Figma
 - Photoshop
 - Canva
+- Illustrator
+- Adobe Sketchbook
+- Krita
 
 </td>
 <td width="33%" align="center">
