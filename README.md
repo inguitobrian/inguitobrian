@@ -4,7 +4,7 @@
 <!-- Animated Typing Effect -->
 <!-- Animated Typing Effect -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+Brian+Inguito+%F0%9F%8E%A8%F0%9F%92%BB;BSIT+Student+%7C+Artist+%7C+Musician;Creating+Digital+%26+Traditional+Masterpieces;Composing+Code+%26+Melodies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi!+I'm+Brian+Inguito+%F0%9F%8E%A8%F0%9F%92%BB;BSIT+Student+%7C+Artist+%7C+Musician;Creating+Digital+%26+Traditional+Artworks;Composing+Code+%26+Melodies)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 
@@ -35,6 +35,7 @@ const brian = {
         "Full-Stack Development",
         "UI/UX Design Principles",
         "Digital Illustration Techniques"
+        "Brand Designing"
     ],
 
     lifePhilosophy: "Every line of code is a brushstroke,
