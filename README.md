@@ -239,7 +239,7 @@ I'm a **BSIT student** who bridges the gap between technology and creativity. By
 │                                                         │
 │  🎓  Mastering Full-Stack Development                  │
 │  🎨  Enhancing Digital Art Portfolio                   │
-│  🎵  Serving as Church Musician                        │                     
+ │  🎵  Serving as Church Musician                        │                     
 │  🖌️  Creating Portrait Masterpieces                    │
 │  💼  Building Professional Projects                    │
 │                                                         │
